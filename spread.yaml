@@ -7,6 +7,9 @@ backends:
       - ubuntu-24.04-64:
           username: ubuntu
           password: ubuntu
+      - ubuntu-26.04-64:
+          username: ubuntu
+          password: ubuntu
 
 path: /spread/vale-snap
 
