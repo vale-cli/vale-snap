@@ -1,4 +1,4 @@
-# [vale](https://vale.sh) and [vale-ls](https://github.com/errata-ai/vale-ls) in a snap #
+# [vale](https://vale.sh) and [vale-ls](https://github.com/vale-cli/vale-ls) in a snap #
 
 -------------------------------------------------------------------------------
 
